@@ -4094,6 +4094,18 @@
 				}
 
 		}
+		@media screen and (max-width:320px) {
+ 
+ 			#banner {
+				padding: 2.5em 1em 1.5em 1em;
+			}
+
+				#banner .icon {
+					font-size: 1em;
+				}
+		/*iPhone 5, 5s, seに適用させたいCSSを記述*/
+ 
+		}
 
 /* Main */
 
