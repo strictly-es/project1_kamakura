@@ -3882,6 +3882,7 @@
 		/*background-image: url("images/overlay.png"), url("../../images/IMG_2246.jpg");*/
 		background-size: cover;
 		text-align: center;
+		height:600px;
 	}
 	#banner.img1{
 		background-image: url("images/overlay.png"), url("../../images/IMG_2246.jpg");
